@@ -18,7 +18,7 @@ Hi! I'm Connor, an economics and data analysis enthusiast passionate about using
 - Theoretical GDP was higher than reported GDP in most years.
 - Government expenditure appears to be the primary driver of this divergence.
 
-➡️ [View Full Project](https://github.com/Connor676/portfolio/tree/main/economy-theory-project)
+➡️ [View Full Project on GitHub](https://github.com/Connor676/portfolio/tree/main/economy-theory-project)
 
 ---
 
