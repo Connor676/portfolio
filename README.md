@@ -18,7 +18,7 @@ Hi! I'm Connor, an economics and data analysis enthusiast passionate about using
 - Theoretical GDP was higher than reported GDP in most years.
 - Government expenditure appears to be the primary driver of this divergence.
 
-➡️ [View Full Project](#) *(Link to your GitHub repo or `.Rmd`/notebook file)*
+➡️ [View Full Project](./economy-theory-project/)
 
 ---
 
@@ -34,7 +34,7 @@ Hi! I'm Connor, an economics and data analysis enthusiast passionate about using
 - Clutch FT%: **75.2%**
 - Regression analysis (w/ player fixed effects) found a small, statistically insignificant decline in FT% under pressure.
 
-➡️ [View Full Project](#) *(Link to your GitHub repo or notebook)*
+➡️ [View Full Project](./nba-clutch-ft-project/)
 
 ---
 
