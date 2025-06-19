@@ -1,4 +1,3 @@
-# portfolio
 # Connor Armstrong
 
 Hi! I'm Connor, an economics and data analysis enthusiast passionate about using statistical tools to uncover insights in real-world data. I recently graduated from Michigan State University with a B.S. in Economics and a concentration in econometrics and data analysis. This portfolio showcases two projects where I applied economic reasoning, programming in R, and data science methods to explore important real-world questions.
