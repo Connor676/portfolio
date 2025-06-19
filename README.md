@@ -57,3 +57,11 @@ If you're interested in my work or want to collaborate, feel free to [connect wi
 ---
 
 _Thanks for visiting my portfolio!_
+
+---
+
+## 📬 Contact
+
+- 📧 [armst421@msu.edu](mailto:armst421@msu.edu)  
+- 📱 (734) 259-9637  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/armst)
